@@ -1,26 +1,28 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <Points />
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
-
+import Points from './components/Points.vue';
 export default {
   name: 'App',
   components: {
-    HelloWorld
-  }
+    Points,
+  },
 }
 </script>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+#app{
+    height: auto;
+    width: 100%;
+    
+}
+body{
+  background-image:url("./assets/fondo_oscurecido.jpg");
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-position:center;
+  background-attachment: fixed
 }
 </style>

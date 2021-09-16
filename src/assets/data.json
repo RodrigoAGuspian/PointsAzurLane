@@ -1,0 +1,45 @@
+[{
+    "player": "Juanito",
+    "faction": "KMS",
+    "firstPoints": 100,
+    "image1": "String",
+    "finalPoints": 10000,
+    "image2": "String"
+},
+
+{
+    "player": "Pedro",
+    "faction": "IJN",
+    "firstPoints": 100,
+    "image1": "String",
+    "finalPoints": 10000,
+    "image2": "String"
+},
+
+{
+    "player": "Paco",
+    "faction": "USS",
+    "firstPoints": 100,
+    "image1": "String",
+    "finalPoints": 10000,
+    "image2": "String"
+},
+
+{
+    "player": "Juanito123",
+    "faction": "HMS",
+    "firstPoints": 100,
+    "image1": "String",
+    "finalPoints": 10000,
+    "image2": "String"
+},
+
+{
+    "player": "Pablo",
+    "faction": "KMS",
+    "firstPoints": 100,
+    "image1": "String",
+    "finalPoints": 10000,
+    "image2": "String"
+}
+]
