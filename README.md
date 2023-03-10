@@ -1,4 +1,4 @@
-# demo-azurlane-points
+# PointsAzurLane
 
 Proyecto en Vue.js para el registro de puntos de evento (actualmente dado de baja).
 Además se utiliza Firebase para la gestión de datos e imagenes.
