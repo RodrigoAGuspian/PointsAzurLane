@@ -1,5 +1,7 @@
 # demo-azurlane-points
 
+Proyecto en Vue.js para el registro de puntos de evento (actualmente dado de baja)
+
 ## Project setup
 ```
 npm install
@@ -22,3 +24,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
